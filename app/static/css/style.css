@@ -1,0 +1,12 @@
+html * {
+    font-family: sans-serif;
+}
+
+img {
+    max-width: 30px;
+}
+
+/* ul li {
+	color: red;
+	text-decoration: underline;
+} */
